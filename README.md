@@ -75,7 +75,8 @@ No fancy alerts (like "Fraud detected! Email sent")—just color coding for now.
   
 ## How to Use
 Interactive via live dashboard link shared above as the .pbix file contains 6L+ rows it is difficult to upload
-Open Live-Real-Time-Banking-fraud-Monitoring-Dashboard.pbix in Power BI Desktop
+Open Live-Real-Time-Banking-fraud-Monitoring-Dashboard.pbix in Power BI Desktop.
+So Interacte via Live dashboard link above
 Explore the interactive slicers.
 
 Feel free to star this repo if you find it useful!
