@@ -40,7 +40,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNjI5NTI1ZjMtODYyNS00ZTQyLTg5MTgtOGEyNTdhN
 ### 3. Live Update Demonstration
 
 **Before Adding New Row:**
-![Before](Fraud-Transactions-Before.png)
+![Before-update](Fraud-Transactions-Before.png)
 
 **After Adding New Fraud Row in SQL:**
 ![After - New red row appears instantly](Fraud-Transactions-After.png)
@@ -74,7 +74,7 @@ So when we added a test row (like step 999, isFraud=1), the table updated live, 
 No fancy alerts (like "Fraud detected! Email sent")—just color coding for now.
   
 ## How to Use
-Download the .pbix file or can interactive via live dashboard link shared above
+Interactive via live dashboard link shared above as the .pbix file contains 6L+ rows it is difficult to upload
 Open Live-Real-Time-Banking-fraud-Monitoring-Dashboard.pbix in Power BI Desktop
 Explore the interactive slicers.
 
