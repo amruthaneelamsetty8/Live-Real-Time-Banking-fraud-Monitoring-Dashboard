@@ -40,7 +40,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNjI5NTI1ZjMtODYyNS00ZTQyLTg5MTgtOGEyNTdhN
 ### 3. Live Update Demonstration
 
 **Before Adding New Row:**
-![Before-update](Fraud-Transactions-Before.png)
+![Before-update](FraudTransactions-Before.png)
 
 **After Adding New Fraud Row in SQL:**
 ![After - New red row appears instantly](Fraud-Transactions-After.png)
